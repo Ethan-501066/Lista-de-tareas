@@ -2,7 +2,7 @@
 
 ## Estado de Progreso
 - [ ] Tarea 1: Tender la cama
-- [ ] Tarea 2: Lavar mi cara
+- [x] Tarea 2: Lavar mi cara
 - [ ] Tarea 3: Ir al GYM
 - [ ] Tarea 4: Hornear
 - [ ] Tarea 5: Tomar vitaminas
