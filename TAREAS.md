@@ -1,0 +1,46 @@
+# 📋 Lista de Tareas Pendientes
+
+## Estado de Progreso
+- [ ] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+- [ ] Tarea 4
+- [ ] Tarea 5
+
+---
+
+## Detalles de las Tareas
+
+###  1. Tender la cama 
+**Estado:** ⏳ Pendiente  
+
+---
+
+###  2. Lavar mi cara 
+**Estado:** ⏳ Pendiente  
+
+---
+
+###  3. Ir al GYM
+**Estado:** ⏳ Pendiente  
+
+---
+
+###  4. Hornear
+**Estado:** ⏳ Pendiente  
+
+---
+
+###  5. Tomar vitaminas
+**Estado:** ⏳ Pendiente  
+
+---
+
+## Leyenda
+- ✅ = Completado
+- ⏳ = Pendiente
+- 🔄 = En Progreso
+- ❌ = Cancelado
+
+## Notas
+Actualiza el estado de cada tarea según avances. Puedes marcar las tareas como completadas usando `[x]` en lugar de `[ ]`.
