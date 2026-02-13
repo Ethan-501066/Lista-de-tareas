@@ -1,7 +1,7 @@
 # 📋 Lista de Tareas Pendientes
 
 ## Estado de Progreso
-- [ ] Tarea 1: Tender la cama
+- [x] Tarea 1: Tender la cama
 - [ ] Tarea 2: Lavar mi cara
 - [ ] Tarea 3: Ir al GYM
 - [ ] Tarea 4: Hornear
